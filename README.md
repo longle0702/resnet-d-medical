@@ -3,8 +3,8 @@ This repository contains the research and code for implementing the ResNet-D arc
 
 ## Co-authors
 Nguyen Quang Huy
-Nguyen Hai Dang
 Nguyen Tuan Khai
+Nguyen Hai Dang
 Pham Thai Son
 
 ## Project Overview

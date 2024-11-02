@@ -16,6 +16,11 @@ The model uses the [COVID-19 Radiography Dataset](https://www.kaggle.com/dataset
 - Viral Pneumonia cases
 - Lung Opacity cases
 
+## Image Processing
+- Resize the image into 224 x 224
+- Convert the input images to PyTorch tensors, which are multi-dimensional arrays representing the image data.
+- Normalize the image tensor to a predefined mean and standard deviation across each channel.
+
 ## Results
 The model achieved high accuracy across different dataset splits, with the 80/20 split yielding the best results.<br>By using model improvements like advanced learning rate and data augmentation, the model shows a significant improvement with 20% data augmented.
 

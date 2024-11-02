@@ -18,8 +18,7 @@ The model uses the [COVID-19 Radiography Dataset](https://www.kaggle.com/dataset
 - Lung Opacity cases
 
 ## Results
-The model achieved high accuracy across different dataset splits, with the 80/20 split yielding the best results.
-By using model improvements like advanced learning rate and data augmentation, the model shows a significant improvement with 20% data augmented.
+The model achieved high accuracy across different dataset splits, with the 80/20 split yielding the best results.<br>By using model improvements like advanced learning rate and data augmentation, the model shows a significant improvement with 20% data augmented.
 
 ## References
 Please refer to our report for a complete list of references

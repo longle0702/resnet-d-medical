@@ -1,8 +1,11 @@
 # ResNet-D for medical image classification
 This repository contains the research and code for implementing the ResNet-D architecture for medical image classification, specifically aimed at diagnosing lung diseases from X-ray scans. Our study focuses on optimizing the ResNet-D model to accurately classify medical images, highlighting enhancements in feature extraction and model accuracy through advanced training techniques and data augmentation.
 
-## Co-authors
-Nguyen Quang Huy<br>Nguyen Tuan Khai<br>Nguyen Hai Dang<br>Pham Thai Son
+## Team members
+- Nguyen Quang Huy
+- Nguyen Tuan Khai
+- Nguyen Hai Dang
+- Pham Thai Son
 
 ## Project Overview
 Medical image classification plays a crucial role in healthcare by helping in early disease detection and diagnosis. This project uses ResNet-D to classify lung conditions based on X-ray scans. With advanced training methodologies and data augmentation, the model improved accuracy and robustness.
